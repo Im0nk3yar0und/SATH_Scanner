@@ -121,6 +121,7 @@ git clone https://github.com/Im0nk3yar0und/SATH_Scanner.git
 
 #### Check hash with VirusTotal's API.
 - This function checks the MD5 hash of a specific package against VirusTotal's API to detect potentially malicious applications.
+
 ![](2024-05-10_21-33.png)
 
 \

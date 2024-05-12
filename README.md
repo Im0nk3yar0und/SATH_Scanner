@@ -5,11 +5,11 @@ SATH Scanner is a tool designed to scan Android packages for suspicious permissi
 &nbsp;
 
 ## Table of Contents
-- [Installation](https://github.com/Im0nk3yar0und/SATH_Scanner/blob/main/README.md#installation)
-- [Usage](https://github.com/Im0nk3yar0und/SATH_Scanner/blob/main/README.md#usage)
-- [Functions Description](https://github.com/Im0nk3yar0und/SATH_Scanner/blob/main/README.md#functions-description)
-- [Contributing](https://github.com/Im0nk3yar0und/SATH_Scanner/blob/main/README.md#contributing)
-- [License](https://github.com/Im0nk3yar0und/SATH_Scanner/blob/main/README.md#license)
+- Installation
+- Usage
+- Functions Description
+- Contributing
+- License
 
 \
 &nbsp;
